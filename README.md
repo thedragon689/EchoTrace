@@ -415,10 +415,10 @@ Questo progetto è rilasciato sotto licenza **GNU GPL v3**. Vedi il file `LICENS
 ## 📞 Supporto
 
 - **Issues**: [GitHub Issues](https://github.com/
-thedragon689 /echotrace/issues)
+thedragon689 /EchoTrace/issues)
 - **Email**: webdevel73@.com
 - **Documentazione**: [Wiki](https://github.com/
-thedragon689 /echotrace/wiki)
+thedragon689 /EchoTrace/wiki)
 
 ---
 
