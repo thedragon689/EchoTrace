@@ -83,7 +83,7 @@ pip3 --version
 
 ### **1. Clona il Repository**
 ```bash
-git clone https://github.com/L2u8c1a73/echotrace.git
+git clone https://github.com/thedragon689/EchoTrace.git
 cd echotrace
 ```
 
